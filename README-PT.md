@@ -27,5 +27,5 @@ Olá! Eu sou o **Otávio**, um desenvolvedor Python apaixonado por resolver prob
 ---
 
 ## 📫 Entre em Contato
-- **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/seu-perfil)
-- **Email:** otavio@email.com
+- **LinkedIn:** [linkedin.com/in/OtavioPortela](https://www.linkedin.com/in/otavio-portela-b7426019b/)
+- **Email:** otavionegocios97@gmail.com
