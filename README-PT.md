@@ -22,8 +22,8 @@ Olá! Eu sou o **Otávio**, um desenvolvedor Python apaixonado por resolver prob
 - Entusiasta por construção de apps web e exploração de novas tecnologias.
 
 ### 📂 Projetos em Destaque
-- **[Projeto A](https://github.com/yourusername/project-a):** Uma aplicação web baseada em Django para gerenciamento de tarefas.
-- **[Projeto B](https://github.com/yourusername/project-b):** Um script Python para extração automatizada de dados usando Selenium.
+- **[Site](https://github.com/OtavioPortela/site_casamento):** Uma aplicação web baseada em Django.
+- **[Coin-search-with-selenium](https://github.com/OtavioPortela/Coin-search-with-selenium.gitit):** Um script Python para extração automatizada de dados usando Selenium.
 
 ---
 
