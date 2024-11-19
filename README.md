@@ -1,16 +1,31 @@
-## Hi there 👋
+# 🌐 Select your language | Selecione o idioma
 
-<!--
-**OtavioPortela/OtavioPortela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![English](https://img.shields.io/badge/Language-English-blue)](README.md)
+[![Português](https://img.shields.io/badge/Idioma-Português-green)](README-PT.md)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+Hi there! I'm **Otávio**, a passionate Python developer with a knack for solving problems and delivering efficient, scalable solutions. With solid experience in backend development, I aim to create impactful software.
+
+### 🚀 Skills & Expertise
+- **Backend Development:** Python (Django, Flask), REST APIs
+- **Automation:** Selenium, scripts for process optimization
+- **Databases:** PostgreSQL, SQL Server, SQLite
+- **Frontend:** Learning React to enhance full-stack capabilities
+- **DevOps:** Git, Docker, Agile methodologies (Scrum)
+
+### 🌟 Highlights
+- Developed applications for **automation** and **data processing**.
+- Experience in teaching programming and mentoring.
+- Enthusiastic about building web apps and exploring new technologies.
+
+### 📂 Featured Projects
+- **[Project A](https://github.com/yourusername/project-a):** A Django-based web application for task management.
+- **[Project B](https://github.com/yourusername/project-b):** A Python script for automated data extraction using Selenium.
+
+---
+
+## 📫 Let's Connect
+- **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/seu-perfil)
+- **Email:** otavio@email.com
