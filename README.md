@@ -22,8 +22,8 @@ Hi there! I'm **Otávio**, a passionate Python developer with a knack for solvin
 - Enthusiastic about building web apps and exploring new technologies.
 
 ### 📂 Featured Projects
-- **[Project A](https://github.com/yourusername/project-a):** A Django-based web application for task management.
-- **[Project B](https://github.com/yourusername/project-b):** A Python script for automated data extraction using Selenium.
+- **[Site](https://github.com/OtavioPortela/site_casamento):** A Django-based web application for task management.
+- **[Coin-search-with-selenium](https://github.com/OtavioPortela/Coin-search-with-selenium.gitit):** A Python script for automated data extraction using Selenium.
 
 ---
 
