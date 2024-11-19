@@ -27,5 +27,5 @@ Hi there! I'm **Otávio**, a passionate Python developer with a knack for solvin
 ---
 
 ## 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/seu-perfil)
+- **LinkedIn:** [linkedin.com/in/OtavioPortela](https://www.linkedin.com/in/otavio-portela-b7426019b/)
 - **Email:** otavio@email.com
