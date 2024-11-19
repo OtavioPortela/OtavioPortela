@@ -9,11 +9,12 @@
 Olá! Eu sou o **Otávio**, um desenvolvedor Python apaixonado por resolver problemas e entregar soluções eficientes e escaláveis. Com sólida experiência em desenvolvimento backend, meu objetivo é criar software que faça a diferença.
 
 ### 🚀 Habilidades e Experiência
-- **Desenvolvimento Backend:** Python (Django, Flask), APIs REST
-- **Automação:** Selenium, scripts para otimização de processos
-- **Bancos de Dados:** PostgreSQL, SQL Server, SQLite
-- **Frontend:** Aprendendo React para aprimorar capacidades full-stack
+- **Desenvolvimento Backend:** Python (Django, Flask), APIs REST  
+- **Automação:** Práticas diárias em RPA (Automação Robótica de Processos) e conhecimento sólido na biblioteca Selenium  
+- **Bancos de Dados:** PostgreSQL, SQL Server, SQLite  
+- **Frontend:** Conhecimento sólido em React e integração de React com Django nos meus projetos  
 - **DevOps:** Git, Docker, metodologias ágeis (Scrum)
+
 
 ### 🌟 Destaques
 - Desenvolvimento de aplicações para **automação** e **processamento de dados**.
